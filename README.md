@@ -1,4 +1,4 @@
-# CardioIA
+# CardioIA Project
 
 Aplicação web desenvolvida em React para **registro e acompanhamento de aferições de pressão arterial**.
 
