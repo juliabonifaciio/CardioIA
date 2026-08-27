@@ -6,7 +6,7 @@ Aplicação web desenvolvida em React para **registro e acompanhamento de aferi�
 
 ![CardioIA](./CardioIA.png)
 
-## 📋 Sobre o projeto
+## Sobre o projeto
 
 O **CardioIA** foi desenvolvido para organizar os registros de pressão arterial informados pelo próprio usuário.
 
@@ -22,7 +22,7 @@ Nesta etapa do projeto, o foco está no desenvolvimento da interface e no uso de
 
 **Importante:** o projeto possui finalidade educacional e não substitui avaliação ou diagnóstico médico.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Página inicial de apresentação do sistema
 - Cadastro de uma nova aferição
@@ -34,7 +34,7 @@ Nesta etapa do projeto, o foco está no desenvolvimento da interface e no uso de
 - Interface simples e responsiva
 - Organização da aplicação utilizando componentes React
 
-## 🖥️ Interface
+## Interface
 
 A aplicação possui duas áreas principais:
 
@@ -46,7 +46,7 @@ Apresenta o CardioIA e orienta o usuário a realizar uma nova aferição.
 
 Permite preencher o formulário com os valores medidos e salvar a aferição para acompanhamento no histórico.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - React
 - JavaScript
@@ -54,7 +54,7 @@ Permite preencher o formulário com os valores medidos e salvar a aferição par
 - CSS
 - Node.js / npm
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### 1. Instale as dependências
 
@@ -80,7 +80,7 @@ http://localhost:5173/
 
 Abra esse endereço no navegador.
 
-## 📁 Estrutura esperada
+## Estrutura esperada
 
 A estrutura pode variar de acordo com a organização do projeto, mas uma aplicação React normalmente possui arquivos semelhantes a:
 
@@ -96,10 +96,10 @@ CardioIA/
 └── README.md
 ```
 
-## 🎯 Objetivo acadêmico
+## Objetivo acadêmico
 
 O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web com React, especialmente a criação de interfaces utilizando **componentes, props e gerenciamento de estado**.
 
-## 👩‍💻 Projeto
+## Projeto
 
 **CardioIA — FIAP · 2TIAPR · 2026**
